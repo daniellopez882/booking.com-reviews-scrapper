@@ -5,7 +5,7 @@
 
 A Python tool to scrape customer reviews from Booking.com. Whether you're a data enthusiast or looking to analyze customer feedback, this tool makes it easy to gather reviews data.
 
-Developed by Muhammad Taha
+Developed by Daniel Lopez
 
 ## Features
 
