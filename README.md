@@ -111,7 +111,7 @@ OUTPUT_DIR: "<my_output_directory_path>"
 
 If you find this project helpful and would like to support its development, you can reach out to the developer:
 
-Muhammad Taha - Professional Software Developer
+Daniel Lopez - Professional Software Developer
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
